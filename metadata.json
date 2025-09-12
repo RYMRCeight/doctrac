@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Document Tracker",
+  "description": "An intelligent document tracking system powered by the Gemini API. It allows users to manage documents, track their status, and leverage AI to automatically generate summaries and suggest categories.",
+  "requestFramePermissions": []
+}
